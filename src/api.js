@@ -43,4 +43,4 @@ export const gameScreenshotsURL = (game_id) =>
 export const searchGameURL=(game_name)=>`${MODIFY_API2}?search=${game_name}&page_size=9.json?&key=${apiKey}`;  
 //https://api.rawg.io/api/games?search=gta&page_size=9.json?&key=4e58d66d42074002851711fc6e726c05
 //https://api.rawg.io/api/games/644661.json?&key=1205e9093aa54f1aa02daf800a2572b9
-//https://api.rawg.io/api/games/644661.json?&key=3329d986376342039fa4e654f1e7d910
+//https://api.rawg.io/api/games/644661.json?&key=3329d986376342039fa4e654f1e7d910hhhh
